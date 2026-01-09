@@ -1,6 +1,6 @@
-# Discord Bot (Slash Commands)
+# Discord Bot
 
-A lightweight Discord bot built with `discord.py` using slash commands only.
+A lightweight Discord bot built with `discord.py`.
 Includes a small SQLite-backed economy system and is designed to be easy to extend.
 
 The project is intentionally kept in a single file for simplicity.
@@ -9,7 +9,7 @@ The project is intentionally kept in a single file for simplicity.
 
 ## Features
 
-- Slash commands only (no prefix commands)
+- Slash commands only
 - SQLite database for persistent storage
 - Basic economy system (balance, daily rewards)
 - Utility and fun commands
